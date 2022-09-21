@@ -12,7 +12,7 @@ PT-BR/
 
 Esse projeto foi realizado para colocar em prática o desempenho do aprendizado contínuo no curso de Formação React, cujo objetivo é aprender a utilizar a biblioteca React em novos projetos e todas as suas funcionalidades.
 
-O GitFind faz requisições utilizando a API do Github ao momento em que o usuário digita o nome de perfil que deseja encontrar, e, com auxílio da API, preenche o campo de informações do perfil e os respectivos repositórios pertencentes aquele perfil específico.
+O GitFind faz requisições utilizando a API do Github ao momento em que o usuário digita o nome de perfil que deseja encontrar, e com auxílio da API, preenche o campo de informações do perfil e os respectivos repositórios pertencentes aquele perfil específico.
 
 No projeto, foi utilizado de conhecimentos básicos de desenvolvimento web, como HTML, CSS E JS, integrando ao React e até o método Fetch para a API, também foi exercitado boas práticas de desenvolvimento.
 
